@@ -16,6 +16,7 @@ lazy val commonSettings = Seq(
   scalaVersion := scalaV,
   publishArtifact := false, // https://www.scala-sbt.org/1.x/docs/Artifacts.html#Modifying+default+artifacts
   Global / cancelable := true, // cancel running task without existing sbt
+  Test / parallelExecution := false, // https://scalameta.org/munit/docs/tests.html#run-tests-in-parallel
   libraryDependencies ++= Seq(
     // Logging
     "ch.qos.logback" % "logback-classic" % logbackClassicV, // http://logback.qos.ch/

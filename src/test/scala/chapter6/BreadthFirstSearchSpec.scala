@@ -1,3 +1,3 @@
 package chapter6
 
-object BreadthFirstSearchSpec {}
+class BreadthFirstSearchSpec extends munit.ScalaCheckSuite {}

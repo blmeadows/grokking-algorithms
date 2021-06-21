@@ -1,3 +1,3 @@
 package chapter10
 
-object KNearestNeighborsSpec {}
+class KNearestNeighborsSpec extends munit.ScalaCheckSuite {}

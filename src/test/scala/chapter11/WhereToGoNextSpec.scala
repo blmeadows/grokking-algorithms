@@ -1,3 +1,3 @@
 package chapter11
 
-object WhereToGoNextSpec {}
+class WhereToGoNextSpec extends munit.ScalaCheckSuite {}

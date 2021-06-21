@@ -1,3 +1,3 @@
 package chapter4
 
-object QuicksortSpec {}
+class QuicksortSpec extends munit.ScalaCheckSuite {}

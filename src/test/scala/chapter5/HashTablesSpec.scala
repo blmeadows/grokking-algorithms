@@ -1,3 +1,3 @@
 package chapter5
 
-object HashTablesSpec {}
+class HashTablesSpec extends munit.ScalaCheckSuite {}

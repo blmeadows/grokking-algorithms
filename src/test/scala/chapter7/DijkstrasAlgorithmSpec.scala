@@ -1,3 +1,3 @@
 package chapter7
 
-object DijkstrasAlgorithmSpec {}
+class DijkstrasAlgorithmSpec extends munit.ScalaCheckSuite {}

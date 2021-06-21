@@ -1,3 +1,3 @@
 package chapter3
 
-object RecursionSpec {}
+class RecursionSpec extends munit.ScalaCheckSuite {}

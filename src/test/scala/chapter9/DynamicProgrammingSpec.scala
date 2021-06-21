@@ -1,3 +1,3 @@
 package chapter9
 
-object DynamicProgrammingSpec {}
+class DynamicProgrammingSpec extends munit.ScalaCheckSuite {}

@@ -1,3 +1,3 @@
 package chapter8
 
-object GreedyAlgorithmsSpec {}
+class GreedyAlgorithmsSpec extends munit.ScalaCheckSuite {}

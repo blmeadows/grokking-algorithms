@@ -6,7 +6,7 @@ Exercises are worked in order and organized by chapter directory.
     - [Notes](src/main/scala/chapter1/IntroductionToAlgorithms.md), [Code](src/main/scala/chapter1/IntroductionToAlgorithms.scala), [Tests](src/test/scala/chapter1/IntroductionToAlgorithmsSpec.scala)
 - [x] Chapter 2. Selection Sort
     - [Notes](src/main/scala/chapter2/SelectionSort.md), [Code](src/main/scala/chapter2/SelectionSort.scala), [Tests](src/test/scala/chapter2/SelectionSortSpec.scala)
-- [ ] Chapter 3. Recursion
+- [x] Chapter 3. Recursion
     - [Notes](src/main/scala/chapter3/Recursion.md), [Code](src/main/scala/chapter3/Recursion.scala), [Tests](src/test/scala/chapter3/RecursionSpec.scala)
 - [ ] Chapter 4. Quicksort
     - [Notes](src/main/scala/chapter4/Quicksort.md), [Code](src/main/scala/chapter4/Quicksort.scala), [Tests](src/test/scala/chapter4/QuicksortSpec.scala)

@@ -1,0 +1,22 @@
+# Recursion
+
+- Every recursive function has two parts:
+    - Base case
+    - Recursive case
+- Stack:
+    - A stack is a simple data structure with two actions, push and pop.
+    - The computer uses a stack internally called the _call stack_.
+    - When you call a function from another function, the calling function is paused in a partially completed state.
+    - The call stack is used to save the variables for multiple functions.
+    - Each function call takes up some memory. If the stack is too tall, there are two option:
+        - Rewrite the code to use a loop instead.
+        - Use _tail recursion_. Not discussed in depth in this book but is available in Scala.
+            - If a recursive function calls itself as the last action, the stack frame of the function can be reused.
+            - The `@tailrec` annotation can be used to require tail recursion of a function.
+            - In Scala, only the direct recursive call to that function are optimized.
+- Recap:
+    - Recursion is when a function calls itself.
+    - Every recursive function has two cases: the base case and the recursive case.
+    - A stack has two operations: push and pop.
+    - All function calls go onto the call stack.
+    - The call stack can get very large, which takes up a lot of memory.

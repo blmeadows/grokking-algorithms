@@ -8,7 +8,7 @@ Exercises are worked in order and organized by chapter directory.
     - [Notes](src/main/scala/chapter2/SelectionSort.md), [Code](src/main/scala/chapter2/SelectionSort.scala), [Tests](src/test/scala/chapter2/SelectionSortSpec.scala)
 - [x] Chapter 3. Recursion
     - [Notes](src/main/scala/chapter3/Recursion.md), [Code](src/main/scala/chapter3/Recursion.scala), [Tests](src/test/scala/chapter3/RecursionSpec.scala)
-- [ ] Chapter 4. Quicksort
+- [x] Chapter 4. Quicksort
     - [Notes](src/main/scala/chapter4/Quicksort.md), [Code](src/main/scala/chapter4/Quicksort.scala), [Tests](src/test/scala/chapter4/QuicksortSpec.scala)
 - [ ] Chapter 5. Hash Tables
     - [Notes](src/main/scala/chapter5/HashTables.md), [Code](src/main/scala/chapter5/HashTables.scala), [Tests](src/test/scala/chapter5/HashTablesSpec.scala)

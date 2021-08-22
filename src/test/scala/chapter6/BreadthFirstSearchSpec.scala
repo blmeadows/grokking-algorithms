@@ -1,3 +1,9 @@
 package chapter6
 
-class BreadthFirstSearchSpec extends munit.ScalaCheckSuite {}
+import chapter6.BreadthFirstSearch._
+
+class BreadthFirstSearchSpec extends munit.ScalaCheckSuite {
+  test("search for seller") {
+    assert(searchForSeller().contains("peggy"))
+  }
+}

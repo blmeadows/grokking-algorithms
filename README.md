@@ -12,7 +12,7 @@ Exercises are worked in order and organized by chapter directory.
     - [Notes](src/main/scala/chapter4/Quicksort.md), [Code](src/main/scala/chapter4/Quicksort.scala), [Tests](src/test/scala/chapter4/QuicksortSpec.scala)
 - [x] Chapter 5. Hash Tables
     - [Notes](src/main/scala/chapter5/HashTables.md), [Code](src/main/scala/chapter5/HashTables.scala), [Tests](src/test/scala/chapter5/HashTablesSpec.scala)
-- [ ] Chapter 6. Breadth-first Search
+- [x] Chapter 6. Breadth-first Search
     - [Notes](src/main/scala/chapter6/BreadthFirstSearch.md), [Code](src/main/scala/chapter6/BreadthFirstSearch.scala), [Tests](src/test/scala/chapter6/BreadthFirstSearchSpec.scala)
 - [ ] Chapter 7. Dijkstra’s algorithm
     - [Notes](src/main/scala/chapter7/DijkstrasAlgorithm.md), [Code](src/main/scala/chapter7/DijkstrasAlgorithm.scala), [Tests](src/test/scala/chapter7/DijkstrasAlgorithmSpec.scala)
